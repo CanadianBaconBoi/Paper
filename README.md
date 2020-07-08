@@ -8,9 +8,9 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
  - [IRC](https://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
 
 **How I Fucked Up This Server JAR**
- - 1. I decided to unpatch the donkey dupe for shits and giggles
- - 2. Your mother
- - 3. Don't use this
+ 1. I decided to unpatch the donkey dupe for shits and giggles
+ 2. Your mother
+ 3. Don't use this
 
 
 How To (Server Admins)
