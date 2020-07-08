@@ -1,4 +1,4 @@
-Paper [![Build Status](https://papermc.io/ci/job/Paper-1.15/badge/icon)](https://papermc.io/ci/job/Paper-1.15/)
+Paper unPatched [![Build Status](https://papermc.io/ci/job/Paper-1.15/badge/icon)](https://papermc.io/ci/job/Paper-1.15/)
 ===========
 
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
@@ -6,6 +6,11 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
 
 **Support and Project Discussion:**
  - [IRC](https://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
+
+**How I Fucked Up This Server JAR**
+ - 1. I decided to unpatch the donkey dupe for shits and giggles
+ - 2. Your mother
+ - 3. Don't use this
 
 
 How To (Server Admins)
